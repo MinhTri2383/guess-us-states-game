@@ -1,0 +1,20 @@
+# Virtual environments
+game_venv/
+venv_old/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local editor settings
+.vscode/
+.idea/
+
+# Generated game results and scratch data
+states-to-learn.csv
+My_States.csv
+
+# OS files
+.DS_Store
+Thumbs.db
